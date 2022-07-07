@@ -2,6 +2,8 @@
   <img src="https://github.com/ivopr/tamagui-expo/blob/main/assets/icons/icon.png" alt="Tamagui Icon"/>
 </p>
 
+
+# ClearSky Mobile App
 # Quick Start
 Just run the following,
 ```
