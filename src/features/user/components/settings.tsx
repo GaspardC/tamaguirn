@@ -51,12 +51,12 @@ export const Settings: FC = () => {
 
           <Button
             onPress={() => {
-              i18n.changeLanguage("br");
-              ui.setLanguage("br");
+              i18n.changeLanguage("fr");
+              ui.setLanguage("fr");
             }}
             themeInverse
           >
-            {t("locales:br")}
+            {t("locales:fr")}
           </Button>
 
           <Button

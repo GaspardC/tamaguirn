@@ -1,0 +1,25 @@
+{
+    "common": {
+        "done": "Fait"
+    },
+    "home": {
+        "link-to-user": "Link to user",
+        "welcome": "Bienvenu sur Tamagui.",
+        "message": "Starter Tamagui"
+    },
+    "locales": {
+        "fr": "Français",
+        "en": "Anglais"
+    },
+    "user": {
+        "account": "Compte",
+        "change-theme": "Changer le theme",
+        "data-del": "Request Data Deletion",
+        "edit": "Edit My Profile",
+        "invite": "Invite a Friend",
+        "misc": "Miscellaneous",
+        "settings": "Settings",
+        "settings-desc": "Some useful things for you",
+        "theme": "Theme"
+    }
+}

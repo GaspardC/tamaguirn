@@ -16,4 +16,7 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
     package: IS_DEV ? "dev.tamagui.expo.devclient" : "dev.tamagui.expo.client",
     versionCode: 11,
   },
+  ios: {
+    bundleIdentifier: "dev.tamagui.expo.client",
+  },
 });
